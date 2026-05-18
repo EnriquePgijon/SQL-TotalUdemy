@@ -1,0 +1,15 @@
+Una consulta dentro de otra consulta y combinar datos en una misma consulta
+
+If (condición, resultado, resultado si no es 'else')
+
+CASE permite poner condiciones más elaboradas que if, usa else si no se cumple ninguna condición, end as... al final para cerrar el case
+
+CAST conversor de datos para poder converir ej fecha a int…
+
+YEAR, MONTH, DATEDIFF...
+
+Manipulación cadenas de texto, Upper, lower, concat, substring, length
+
+Round, redondea
+Ceiling, techo, redondea a la alta
+Floor, suelo, redondea a la baja

@@ -1,0 +1,7 @@
+select actor_id, count(serie_id) as numero_de_series from actuaciones group by actor_id;
+
+select serie_id, avg(rating_imdb) as rating_promedio 
+from episodios group by serie_id order by rating_promedio desc;
+
+select * from episodios order by duracion desc;
+
